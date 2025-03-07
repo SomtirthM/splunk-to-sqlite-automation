@@ -60,7 +60,18 @@ python load_to_sqlite.py
 ## 📂 Project Structure
 
 
-splunk-to-sqlite-automation/ │── fetch_from_splunk.py # Simulates data fetching from Splunk │── save_to_csv.py # Saves fetched data as CSV │── load_to_sqlite.py # Loads CSV data into SQLite │── config.py # Configuration file │── README.md # Documentation │── requirements.txt # Dependencies
+splunk-to-sqlite-automation/
+│── fetch_from_splunk.py # Simulates data fetching from Splunk 
+
+│── save_to_csv.py # Saves fetched data as CSV 
+
+│── load_to_sqlite.py # Loads CSV data into SQLite 
+
+│── config.py # Configuration file 
+
+│── README.md # Documentation 
+
+│── requirements.txt # Dependencies
 
 ## Automating the Process
 You can schedule this script using Windows Task Scheduler or Cron Job (Linux) to run at specific intervals.
