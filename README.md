@@ -2,8 +2,8 @@
 
 ## Overview
 This project automates data extraction from **Splunk** and loads it into an **Oracle database** using Python.  
-Currently, analysts manually download CSV files from Splunk multiple times a day.  
-This solution removes manual intervention by automating the process end-to-end.
+This solution removes manual effort and dependencies related to downloading CSV files from Splunk multiple times a day by automating the process end-to-end.
+
 
 ---
 
